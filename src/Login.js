@@ -48,7 +48,7 @@ function Login() {
         <button className='login__button' type='submit' onClick={signIn}>Sign-in</button>
     </form>
     <p>
-     Bu signing-in you agree to the AMAZON CLONE Conditions of use & sale. Please see our privacy notice,our Cookies notice and our Interest-Based Ads notice.   
+     By signing-in you agree to the AMAZON CLONE Conditions of use & sale. Please see our privacy notice,our Cookies notice and our Interest-Based Ads notice.   
     </p>
 <button className='register_button' type='submit' onClick={register}>Create your Amazon account</button>
 </div>
